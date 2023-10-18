@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+}
+
+.app-container {
+    min-height: 100vh;
+    background: rgb(76,74,121);
+background: linear-gradient(141deg, rgba(76,74,121,1) 0%, rgba(117,15,117,1) 50%, rgba(50,130,184,1) 100%);
+}
